@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Sarvan</h1>
 <h3 align="center">A passionate Data science enthusiast.</h3>
 
-<img align="right" alt="coding" width"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3gOEe18qRwB8DYRuuggrot&ust=1701690434330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjv__eZ84IDFQAAAAAdAAAAABAS">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir55555&label=Profile%20views&color=0e75b6&style=flat" alt="mihir55555" /> </p>
 
